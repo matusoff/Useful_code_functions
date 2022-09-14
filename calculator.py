@@ -41,8 +41,6 @@ def calculator():
             n1 = answer
             should_continue = True
         else:
-            #n1 =int(input("Enter  first number: "))
-            # should_continue = True
             should_continue = False
             calculator()
 
